@@ -9,7 +9,7 @@
 * Hydraulic Networks & Fluid System Optimisation
 
 #### Featured CFD & Numerical Simulation Projects
-1. **[navier-stokes-python-solver](https://github.com)** — 2D Incompressible Navier-Stokes solver written from scratch in Python (Finite Difference, CFL stability analysis, Lid-Driven Cavity benchmark). *(In Progress)*
+1. **[navier-stokes-python-solver](https://github.com/tutorbosun/navier-stokes-python-solver)** — 2D Incompressible Navier-Stokes solver written from scratch in Python (Finite Difference, CFL stability analysis, Lid-Driven Cavity benchmark). *(In Progress)*
 2. **Unsteady Vortex Shedding & Strouhal Validation (`OpenFOAM`)** — *Upcoming*
 3. **RANS Turbulence Model Benchmark (`k-ε` vs. `k-ω SST`) on Backward-Facing Step** — *Upcoming*
 4. **NACA 0012 Aerodynamics & Grid Independence Study (`OpenFOAM`)** — *Upcoming*
